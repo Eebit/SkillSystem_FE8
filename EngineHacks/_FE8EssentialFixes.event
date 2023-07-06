@@ -135,7 +135,7 @@ POP
 
 //Enemy Control Glitch Fix (Credits to Brendor)
   ORG 0x377A0
-  SHORT 0xE007
+  SHORT 0xE001
 
 //Mode Coefficient EXP fix (credit Vennobennu)
   ORG 0x2C474
